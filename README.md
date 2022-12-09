@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DabAZOfficial.
-- 👀 I’m interested in making music, designing, ethical hacking and front-end developing.
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on app development, clothes brands and music.
-- 📫 How to reach me dieboldhan123@gmail.com
+# 👋 Hi, I’m DabAZ
+- 👀 I’m a digital craftsman. Learn more about me at [DabLink](https://link.dabaz.me).
+- 🌱 I’m currently learning ethical hacking, TypeScript and more.
+- 💞️ I'm taken by Nicole Zhang.
+- 📫 [dabaz.official@skiff.com](mailto:dabaz.official@skiff.com)

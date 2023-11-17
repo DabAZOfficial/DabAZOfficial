@@ -3,5 +3,5 @@
 - 💣 I accidentally deleted most of my repositories in early 2022.
 - 🌱 I’m currently learning ethical hacking, Python, Kali Linux and more.
 - 💞️ I'm taken by Nicole Zhang.
-- 📫 [dabazofficial@gmail.com](mailto:dabazofficial@gmail.com)
-- 📒 Buy Notion templates: [DabWave](https://dabwave.com)
+- 📫 [dabaz@dabaz.me](mailto:dabaz@dabaz.me)
+- 📒 Buy Notion templates: [DabWave](https://notion.dabwave.com)

@@ -1,7 +1,6 @@
 # 👋 Hi, I’m DabAZ
-- 👀 I’m an ethical hacker, a musician, and a front-end development and UI design hobbyist. Learn more about me at [my website](https://dabaz.me) or [my Bento](https://bento.me/dabaz).
+- 👀 Entrepreneur, hacker, musician, designer, developer. Learn more about me at [my website](https://dabaz.me).
 - 💣 I accidentally deleted most of my repositories in early 2022.
-- 🌱 I’m currently learning ethical hacking, Python, Kali Linux and more.
-- 💞️ I'm taken by Nicole Zhang.
-- 📫 [dabaz@dabaz.me](mailto:dabaz@dabaz.me)
-- 📒 Buy Notion templates: [DabWave](https://notion.dabwave.com)
+- 🌱 I’m currently learning Solidity, Python, Go and more.
+- 📫 [hi@dabaz.me](mailto:hi@dabaz.me)
+- 📒 Buy Notion templates: [DabNotion](https://notion.dabaz.me)
